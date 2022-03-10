@@ -368,3 +368,39 @@ body {
     margin-left: 8em;
     font-size: 1.5em;
 }
+
+.iconos {
+    width: 900px;
+    height: 3em;
+    margin-top: 9em;
+}
+
+.primer-cuadro-sexto {
+    margin-left: 11em;
+}
+
+.ajuste-imagen-6 {
+    width: 85px;
+    height: 85px;
+}
+
+.text-ajuste-6to {
+    margin-left: 3em;
+}
+
+.tamanio-call {
+    font-size: 2em;
+    color: #1f3e72;
+    font-weight: 500;
+}
+
+.ip {
+    color: rgb(131, 143, 163);
+}
+
+.boton-call {
+    width: 20em;
+    background-color: rgb(241, 245, 255);
+    font-size: 2em;
+    color: #1f3e72;
+}

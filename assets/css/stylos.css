@@ -14,3 +14,232 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.empresa {
+    text-decoration: none;
+    font-size: 2em;
+    color: rgb(74, 102, 211);
+    font-weight: 700;
+    padding: 4em;
+}
+
+.ajuste-arriba {
+    margin-top: 2em;
+}
+
+.lista {
+    text-decoration: none;
+    display: flex;
+    list-style: none;
+    font-size: 1em;
+    font-weight: 800;
+    padding-top: 9px;
+}
+
+.horizontal {
+    display: flex;
+}
+
+.separacion-paginas {
+    margin-left: 10em;
+}
+
+.enlaces {
+    text-decoration: none;
+    color: rgb(161, 175, 192);
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+.caja-diseño {
+    background-color: rgb(54, 86, 212);
+    width: 200px;
+    height: 50px;
+}
+
+.enlaces-ultimo {
+    color: aliceblue;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding-top: 150px;
+}
+
+.container-t {
+    width: 100%;
+    height: 900px;
+    display: flex;
+}
+
+.titulo {
+    color: #1f3e72;
+    font-size: 100px;
+    padding: 1em;
+    font-weight: 700;
+}
+
+.informacion {
+    padding-left: 100px;
+    height: 100%;
+    color: rgb(161, 175, 192);
+    font-size: 2em;
+}
+
+.container-d {
+    width: 45%;
+}
+
+.ajuste-imagen {
+    width: 100%;
+    height: 75em;
+}
+
+.division {
+    width: 55%;
+    height: 100%;
+}
+
+.ajuste-best {
+    display: flex;
+    padding-left: 100px;
+    font-size: 1.5em;
+    color: rgb(59, 106, 163);
+    margin-top: 3em;
+}
+
+.imagenes-1er {
+    width: 40px;
+    height: 40px;
+}
+
+.separacion-1er {
+    margin-left: 3em;
+}
+
+.Ajuste {
+    display: flex;
+    margin-top: 3em;
+    margin-left: 100px;
+}
+
+.letra-schedule {
+    font-size: 1.5em;
+    padding-left: 2em;
+    font-weight: 700;
+    color: #1f3e72
+}
+
+.ajuste-cuadro {
+    display: flex;
+}
+
+.ajuste-general-cuadro {
+    margin-top: 6em;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    opacity: 0.91;
+}
+
+.iamgenes-iconos-1er {
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}
+
+.texto-cuadro {
+    color: rgb(131, 143, 163);
+    font-size: 2em;
+    padding-left: 1em;
+    font-weight: 400;
+    background-color: rgb(255, 255, 255);
+}
+
+.texto-inferior {
+    color: rgb(37, 67, 118);
+    margin-left: 2.5em;
+    font-weight: 600;
+    font-size: 2em;
+    background-color: rgb(255, 255, 255);
+}
+
+.sepacion-cuadro-tres {
+    margin-left: 8em;
+    margin-top: 2em;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 1em;
+}
+
+.booton {
+    margin-top: 2.5em;
+    margin-left: 4em;
+}
+
+.tamanio-botton {
+    width: 7em;
+    height: 3em;
+    font-size: 1.5em;
+    background-color: #3050ce;
+    color: white;
+    margin-top: 15px;
+    margin-left: 45px;
+    font-weight: 700;
+}
+
+.ajuste-logos-g {
+    margin-top: 5em;
+    margin-left: 5em;
+    margin-right: 5em;
+    justify-content: space-between;
+}
+
+.imagenprimer {
+    width: 300px;
+    margin-top: 2em;
+}
+
+.ssegunda {
+    width: 300px;
+    margin-top: 4em;
+}
+
+.tercer-logo {
+    width: 370px;
+    height: 200px;
+}
+
+.cuarto-logo {
+    width: 300px;
+    margin-top: 4em;
+}
+
+.seccion-tercer {
+    display: flex;
+    margin-top: 5em;
+}
+
+.tercer-primer {
+    width: 60%;
+}
+
+.tercer-segunda {
+    width: 50%;
+}
+
+.titulo-primer {
+    color: #1f3e72;
+    font-size: 3em;
+    font-weight: 800;
+    padding-left: 3em;
+}
+
+.texto-tercer {
+    margin-top: 2.5em;
+    margin-left: 4.3em;
+    font-size: 2.1em;
+    color: rgb(131, 143, 163);
+}
+
+.imagen-tercer {
+    width: 100%;
+}

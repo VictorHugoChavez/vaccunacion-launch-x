@@ -399,8 +399,70 @@ body {
 }
 
 .boton-call {
-    width: 20em;
+    width: 9em;
+    height: 3em;
     background-color: rgb(241, 245, 255);
     font-size: 2em;
     color: #1f3e72;
+    font-weight: 500;
+    margin-top: 1em;
+}
+
+.ajuste-6ta-chat {
+    margin-left: 10em;
+}
+
+.sepacion-gto {
+    margin-top: 12em;
+}
+
+.ajuste-footer {
+    margin-left: 10em;
+    margin-top: 5em;
+}
+
+.titulo-footer {
+    font-size: 3em;
+    font-weight: 500;
+    color: #3364b8;
+}
+
+.datos-footer {
+    margin-left: 30em;
+}
+
+.subtitulos-footer {
+    color: #3364b8;
+    font-size: 2em;
+    font-weight: 600;
+    margin-left: 5em;
+}
+
+.texto-foorter-t {
+    color: #838FA3;
+    margin-left: 8em;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.sub-text-foo {
+    color: #838FA3;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.final {
+    margin-top: 4em;
+    color: #838FA3;
+    margin-left: 10em;
+    font-weight: 500;
+    font-size: 1.3em;
+}
+
+.final-tre {
+    margin-left: 25em;
+}
+
+.final-tre span {
+    margin-left: 4em;
 }
